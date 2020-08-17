@@ -1,0 +1,95 @@
+#principal{
+    width: 1600px;
+    height: 1500px;
+    margin: none;
+border: solid 2px black;
+}
+#contacto{
+    width: 100px;
+    height: 40;
+    border: 2px solid black;
+    margin-top: auto;
+    margin-left: 800px;
+
+}
+.menu{
+    width: 700px;
+    height: 40px;
+    border: 1px solid gold;
+    float: center;
+    margin-top:  40px;
+    background:black;
+}
+
+.menu ul li{
+    list-style: none;
+    float: right;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 15px 31px;
+    border: 0px solid gold;
+    color: white;
+}
+#slide{
+    margin-top: 150px;
+    width: 1600px;
+    height: 800px;
+    margin-bottom: 30px;
+    border: black 2px solid;
+    }
+#hello{
+width: 400px;
+height: 600px;
+border: black 2px solid;
+margin-right: 1000px;
+}
+
+#carousel{
+    width: 1100px;
+    height: 800px;
+    border: black 2px solid;
+    margin-left: 500px;
+    }
+#imagecarousel{
+        width: 1100px;
+        height: 600px;
+        border: black 2px solid;
+    
+    }
+
+.img1{
+    margin-top: 600px;
+    width: 300px;
+    height: 200px;
+    border: black 2px solid;
+
+}
+.img2{
+    margin-top: 600px;
+    width: 300px;
+    height: 200px;
+    border: black 2px solid;
+    margin-left: 400px;
+}
+.img3{
+    width: 300px;
+    height: 200px;
+    border: black 2px solid;
+    margin-left: 600px;
+} 
+.cuadro1{
+    width: 300px;
+    height: 200px;
+    border: black 2px solid;
+}
+.cuadro2{
+    width: 300px;
+    height: 200px;
+    border: black 2px solid;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+
+
